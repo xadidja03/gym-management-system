@@ -19,4 +19,4 @@ Our Gym Management System is tailored to the needs of fitness centers and gyms, 
 **Technologies Used:**
 - Java
 - PostgreSQL
-- JDB
+- JDBC
